@@ -1,12 +1,12 @@
-package com.branovitski.a3205testapp
+package com.branovitski.a3205testapp.ui
 
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import by.kirich1409.viewbindingdelegate.viewBinding
+import com.branovitski.a3205testapp.R
 import com.branovitski.a3205testapp.databinding.ActivityMainBinding
-import com.branovitski.a3205testapp.ui.Screens
 import com.github.terrakok.cicerone.NavigatorHolder
 import com.github.terrakok.cicerone.Router
 import com.github.terrakok.cicerone.androidx.AppNavigator
